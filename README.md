@@ -1,6 +1,7 @@
 # SkillsMatter MuCon 2021
 Slides and links from my talk
 
+The presenation is in PDF form you can download.
 
 My website: thedatafarm.com
 
