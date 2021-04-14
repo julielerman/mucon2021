@@ -1,4 +1,4 @@
-# mucon2021
+# SkillsMatter MuCon 2021
 Slides and links from my talk
 
 
