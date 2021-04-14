@@ -1,9 +1,9 @@
 # SkillsMatter MuCon 2021
 Slides and links from my talk
 
-The presenation is in PDF form you can download.
+The presentation is in PDF form you can download.
 
-My website: thedatafarm.com
+My website: http://thedatafarm.com
 
 Legacy Code Rocks podcast: https://www.legacycode.rocks/podcast-1
 
